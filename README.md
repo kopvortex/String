@@ -1,4 +1,4 @@
 String
 ======
 
-String manipulation programs
+Contains set of programs in C++ which manipulate strings. 
