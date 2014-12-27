@@ -1,3 +1,6 @@
+/* This program reverses an input string using recursion 
+ * Author : Koshy George
+ */
 #include <iostream>
 using namespace std;
 
